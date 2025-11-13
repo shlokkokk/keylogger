@@ -1,4 +1,7 @@
-[![keylogger](https://img.shields.io/badge/keylogger-blue?style=for-the-badge&logo=firefox&logoColor=white)]([https://shlokkokk.github.com/keylogger/](https://github.com/shlokkokk/keylogger))
+> Simple Python Keylogger
+>
+> $> Capturing keystrokes...
+
 
 ## Overview
 - This project is a basic keylogger written in Python that captures keystrokes and sends them to a specified email address at custom intervals. 
